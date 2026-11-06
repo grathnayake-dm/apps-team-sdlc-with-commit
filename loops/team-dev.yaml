@@ -1,0 +1,7 @@
+name: team-dev
+skills:
+  - team-code-review
+trigger:
+  type: manual
+goal_state: "Team shared source defines commit and overrides org"
+human_gate: true
